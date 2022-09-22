@@ -1,0 +1,26 @@
+h1 {
+    text-transform: uppercase;
+
+}
+
+
+
+h2 {
+    color: #3EB03C;
+    font-size: 1.5em;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+
+}
+
+p {
+    font-size: 1em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.infobox {
+    font-size: .8em;
+    color: #869e85;
+    line-height: 0.5;
+    font-family: 'Mukta', sans-serif;
+}
