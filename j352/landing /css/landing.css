@@ -1,11 +1,50 @@
 
-p{
+h1,
+.navbar-brand{
     font-family: 'Dancing Script';
-    font-size: 3.5em;
+    font-size: 4em;
     color: #3950F8;
+    text-align: center;
+    margin: 0.5em 0;
+   
 
 }
 body{
     background-color: #ECEEFA;
 
+}
+p,
+.row{
+    margin: 1em 0;
+}
+
+.menu a,
+a,
+.address,
+.address a:hover{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    display: block;
+    letter-spacing: .1em;
+
+}
+.menu,
+.menu a {
+background: #8394F6;
+padding: 0 .25em
+}
+.menu a:hover {
+    color: #3950F8;
+}
+footer,
+.p{
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+@media (max-width:600px){
+    .navbar-brand{
+        margin: 0.5em 0;
+        color: red;
+    }
 }
