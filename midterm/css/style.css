@@ -1,0 +1,147 @@
+.navbar-brand {
+    font-weight: 700;
+    font-family: Poppins;
+    margin: 15px 0 15px 0;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    color: #152128;
+    background-color: #F4F5F8;
+    font-family: 'Literata', serif;
+    font-size: 15px;
+
+}
+.col-lg-6 img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+@media (max-width: 768px){
+    .col-lg-6 img{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width : 300px ){
+    .col-lg-6 img{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+
+.blockquote h1 {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-size: 1.5em;
+    font-family: 'Work Sans', sans-serif;}
+    
+
+
+
+.blockquote h3 span {
+    color: #1DB954;
+}
+
+.blockquote h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+
+}
+
+.blockquote h3 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 0.5em;
+    padding-top: 10px;
+    font-family: 'Work Sans', sans-serif;
+}
+@media (max-width: 768px){
+.blockquote h3{
+    padding-top: 5px;
+}
+}
+@media (max-width: 300px){
+    .blockquote h3{
+        padding-top: 2px
+    }
+}
+
+header #img {
+    margin: 0 0 15px 0;
+
+}
+
+.container-fluid {
+    max-width: 550px;
+}
+
+.container {
+    background-color: #EAEAEA;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom:40px;
+
+}
+@media (max-width:756px){
+    .container{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 1em;
+    }
+}
+@media (max-width:300px){
+    .container{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 0.5em;
+    }
+}
+
+.container h3 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.container-fluid h3{
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+
+
+}
+.container-fluid iframe{
+padding-top: 40px; 
+padding-bottom: 40px;
+border-bottom-style: dotted;
+}
+@media (max-width:756px){
+    .iframe{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 1em;
+    }
+}
+@media (max-width:300px){
+    .iframe{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 0.5em;
+    }
+}
+.footer{
+    font-weight: 100;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
