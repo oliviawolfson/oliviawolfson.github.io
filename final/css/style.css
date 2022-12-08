@@ -1,6 +1,7 @@
 header{
 background-color: black;
 color: white;  
+font-family: 'Poppins', sans-serif;
 }
 h2{
     margin: 27px 0 57px 0;
@@ -9,6 +10,7 @@ h2{
 }
 u{
     color: red;
+    font-family: 'Poppins', sans-serif;
 }
 section{
     margin: 25px 0 25px 0;
