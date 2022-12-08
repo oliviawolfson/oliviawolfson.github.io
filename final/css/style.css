@@ -3,6 +3,12 @@ background-color: black;
 color: white;  
 font-family: 'Poppins', sans-serif;
 }
+@media (max-width: 600px){
+   header{
+    margin: 10px 15px 10px 15px
+   } 
+}
+
 h2{
     margin: 27px 0 57px 0;
     font-size: 3em;
@@ -17,4 +23,8 @@ section{
 }
 p{
     font-size: 1.4em;
+    font-family: 'Lato', sans-serif;
+}
+article{
+    margin: 25px 0 35px 0;
 }
